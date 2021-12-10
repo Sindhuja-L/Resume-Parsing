@@ -1,0 +1,13 @@
+please install python library mentioned in requirements.txt
+
+install spacy from https://spacy.io/ or by executing following commands in the command window or terminal
+
+>pip install -U spacy
+>python -m spacy download en_core_web_sm
+
+The code is written in Jupyter-Notebook, So please install Jupyter-notebook as well from (https://jupyter.org/)
+Note:- if you are using Anaconda (https://www.anaconda.com/) then Jupyter-notebook should already there.
+
+Open "ResumeParsingUsingNER.ipynb" file in jupyter notebook, after all the packages of requirements.txt are installed.
+
+From menue bar "Kernel"> "Restart & Run All" should run all the cells.
